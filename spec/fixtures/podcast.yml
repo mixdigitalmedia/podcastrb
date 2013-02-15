@@ -1,0 +1,3 @@
+source_dir: "/source/dir/from/yml/"
+destination_dir: "destination/dir/from/yml"
+destination_file: "yml_podcast.rss"
